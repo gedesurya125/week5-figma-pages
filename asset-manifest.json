@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/week5-figma-pages/static/css/main.17d6a069.chunk.css",
+    "main.js": "/week5-figma-pages/static/js/main.c1e4ed4f.chunk.js",
+    "main.js.map": "/week5-figma-pages/static/js/main.c1e4ed4f.chunk.js.map",
+    "runtime-main.js": "/week5-figma-pages/static/js/runtime-main.a7b384a7.js",
+    "runtime-main.js.map": "/week5-figma-pages/static/js/runtime-main.a7b384a7.js.map",
+    "static/js/2.89a62609.chunk.js": "/week5-figma-pages/static/js/2.89a62609.chunk.js",
+    "static/js/2.89a62609.chunk.js.map": "/week5-figma-pages/static/js/2.89a62609.chunk.js.map",
+    "index.html": "/week5-figma-pages/index.html",
+    "static/css/main.17d6a069.chunk.css.map": "/week5-figma-pages/static/css/main.17d6a069.chunk.css.map",
+    "static/js/2.89a62609.chunk.js.LICENSE.txt": "/week5-figma-pages/static/js/2.89a62609.chunk.js.LICENSE.txt",
+    "static/media/cardimg.f33e83b4.png": "/week5-figma-pages/static/media/cardimg.f33e83b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7b384a7.js",
+    "static/js/2.89a62609.chunk.js",
+    "static/css/main.17d6a069.chunk.css",
+    "static/js/main.c1e4ed4f.chunk.js"
+  ]
+}
